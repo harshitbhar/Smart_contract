@@ -62,7 +62,7 @@ The `StructScript` script interacts with the `StructContract` contract to retrie
 
 ## Author
 
-This project was created by [Samaila Anthony Malima](https://github.com/samailamalima) and serves as a basic example of how to define contracts, transactions, and scripts using Cadence on the Flow blockchain.
+This project was created by Harshit and serves as a basic example of how to define contracts, transactions, and scripts using Cadence on the Flow blockchain.
 
 Happy coding!
 
